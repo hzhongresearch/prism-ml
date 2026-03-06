@@ -33,7 +33,3 @@ Follow the relevant README:
 ## Licence
 See `LICENCE.txt` in each subproject.
 
-## Contact
-For questions, feedback, or collaboration opportunities, please contact:
-- **Name:** Romaric Bouveret
-- **Email:** [romaric.bouveret@mq.edu.au](mailto:romaric.bouveret@mq.edu.au)
